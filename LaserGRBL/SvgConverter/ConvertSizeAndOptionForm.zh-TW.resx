@@ -224,10 +224,10 @@
     <value>17, 17</value>
   </data>
   <data name="BtnOnOffInfo.ToolTip" xml:space="preserve">
-    <value>Laser ON：M3是標準模式。
-Grbl v1.1版本 支持新的 M4“動態激光功率模式”
+    <value>激光打開：M3是標準模式。
+Grbl v1.1版本支持新的 M4“動態激光功率模式”(需更新韌體V1.1)
+需要有"M4"模式，要在主選單Grbl&gt;&gt; Grbl 韌體參數&gt;&gt;設定$ 32 = 1
 激光關閉：僅支持M5命令。
-"M4"需要在主選單Grbl&gt;&gt; Grbl 韌體參數&gt;&gt;設定$ 32 = 1
 點擊這裡查看更多信息...</value>
   </data>
   <data name="CBLaserON.Location" type="System.Drawing.Point, System.Drawing">
