@@ -281,7 +281,7 @@ Grbl v1.1版本支持新的 M4“動態激光功率模式”(需更新韌體V1.1
     <value>創建</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>目標圖片</value>
+    <value>設定圖片工作參數</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
     <value>寬</value>
